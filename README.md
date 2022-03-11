@@ -24,13 +24,13 @@
 |  2   |  1월 14일          |    지도 학습-1   |[Lecture 1],[Practice 1] | [Assignment 1] |    |
 |  3   |  1월 21일          |    지도 학습-2   |[Lecture 2],[Practice 2] | [Assignment 2] |    |
 |  -   |  1월 28일          |       휴강     |                                      |                |   |
-|  4   |  2월 4일           |   비지도 학습    |[Lecture 3],[Practice 3] |  |    |
+|  4   |  2월 4일           |   비지도 학습    | [Lecture 3],[Practice 3] |  |    |
 |  5   |  2월 11일          |     -     |     |  |    |
 |  6   |  2월 18일          |     -     |     |  |    |
 |  7   |  2월 25일          |     -     |     |  |    |
 |  8   |  3월 4일           |    주제확정 및 데이터 확보 |     |  |    |
-|  9   |  3월 11일          |    EDA 및 모델링 1 |     |  |    |
-|  10  |  3월 18일          |    모델링 2 |     |  |    |
+|  9   |  3월 11일          |    EDA |  [Practice 9]   |  |    |
+|  10  |  3월 18일          |    전처리 및 모델링 |     |  |    |
 |  11  |  3월 25일          |    모델 평가 및 결과정리 |     |  |    |
 |  12  |  4월 2일           |    발표 |     |  |    |
 
@@ -53,6 +53,7 @@
 [Practice 1]: practice/week-01
 [Practice 2]: practice/week-02
 [Practice 3]: practice/week-03
+[Practice 9]: practice/week-09
 
 [FAQ 1]: FAQ.md#week-01
 
