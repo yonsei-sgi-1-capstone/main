@@ -24,7 +24,7 @@
 |  2   |  1월 14일          |    지도 학습-1   |[Lecture 1],[Practice 1] | [Assignment 1] |    |
 |  3   |  1월 21일          |    지도 학습-2   |[Lecture 2],[Practice 2] | [Assignment 2] |    |
 |  -   |  1월 28일          |       휴강     |                                      |                |   |
-|  4   |  2월 4일           |   비지도 학습    |[Lecture 3],[Practice 3] |  |    |
+|  4   |  2월 4일           |   비지도 학습    | [Lecture 3],[Practice 3] |  |    |
 |  5   |  2월 11일          |     -     |     |  |    |
 |  6   |  2월 18일          |     -     |     |  |    |
 |  7   |  2월 25일          |     -     |     |  |    |
