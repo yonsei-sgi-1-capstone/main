@@ -31,7 +31,7 @@
 |  8   |  3월 4일           |    주제확정 및 데이터 확보 |     |  |    |
 |  9   |  3월 11일          |    EDA 및 모델링 1 |     [Practice 9] |  |    |
 |  10  |  3월 18일          |    모델링 2 |     [Practice 10] |  |    |
-|  11  |  3월 25일          |    모델 평가 및 결과정리 |     |  |    |
+|  11  |  3월 25일          |    모델 평가 및 결과정리 | [Practice 11] |  |    |
 |  12  |  4월 2일           |    발표 |     |  |    |
 
 
@@ -55,6 +55,7 @@
 [Practice 3]: practice/week-03
 [Practice 9]: practice/week-09
 [Practice 10]: practice/week-10
+[Practice 11]: practice/week-11
 
 [FAQ 1]: FAQ.md#week-01
 
